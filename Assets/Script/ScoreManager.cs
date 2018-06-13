@@ -223,6 +223,28 @@ public class ScoreManager : MonoBehaviour
                 }
             }
         }
+        else if (gameState == GameState.Break)
+        {
+            if (Input.GetKeyDown(KeyCode.F12))
+            {
+                restartCounter += 1;
+
+                if (restartCounter >= 3)
+                {
+                    SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+                }
+            }
+
+            if (Input.GetKeyDown(KeyCode.Escape))
+            {
+                restartCounter += 1;
+
+                if (restartCounter >= 3)
+                {
+                    Application.Quit();
+                }
+            }
+        }
     }
 
 	void FixedUpdate () {
