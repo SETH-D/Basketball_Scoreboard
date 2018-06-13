@@ -1,0 +1,558 @@
+fileFormatVersion: 2
+guid: dd742e4ef7f65ee47bad16d0d181d0a1
+timeCreated: 1528746075
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: AnimateBG_0
+    21300002: AnimateBG_1
+    21300004: AnimateBG_2
+    21300006: AnimateBG_3
+    21300008: AnimateBG_4
+    21300010: AnimateBG_5
+    21300012: AnimateBG_6
+    21300014: AnimateBG_7
+    21300016: AnimateBG_8
+    21300018: AnimateBG_9
+    21300020: AnimateBG_10
+    21300022: AnimateBG_11
+    21300024: AnimateBG_12
+    21300026: AnimateBG_13
+    21300028: AnimateBG_14
+    21300030: AnimateBG_15
+    21300032: AnimateBG_16
+    21300034: AnimateBG_17
+    21300036: AnimateBG_18
+    21300038: AnimateBG_19
+    21300040: AnimateBG_20
+    21300042: AnimateBG_21
+    21300044: AnimateBG_22
+    21300046: AnimateBG_23
+    21300048: AnimateBG_24
+    21300050: AnimateBG_25
+    21300052: AnimateBG_26
+    21300054: AnimateBG_27
+    21300056: AnimateBG_28
+    21300058: AnimateBG_29
+    21300060: AnimateBG_30
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AnimateBG_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 465.93332
+        width: 463
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimateBG_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 449.93332
+        width: 463
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimateBG_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 433.93332
+        width: 463
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimateBG_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 417.93332
+        width: 463
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimateBG_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 401.93332
+        width: 463
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimateBG_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 385.93332
+        width: 463
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimateBG_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 369.93332
+        width: 463
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimateBG_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 353.93332
+        width: 463
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimateBG_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 337.93332
+        width: 463
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimateBG_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 321.93332
+        width: 463
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimateBG_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 305.93332
+        width: 463
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimateBG_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 289.93332
+        width: 463
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimateBG_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 273.93332
+        width: 463
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimateBG_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 257.93332
+        width: 463
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimateBG_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 241.93333
+        width: 463
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimateBG_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 225.93333
+        width: 463
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimateBG_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 209.93333
+        width: 463
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimateBG_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193.93333
+        width: 463
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimateBG_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 177.93333
+        width: 463
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimateBG_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 161.93333
+        width: 463
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimateBG_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 145.93333
+        width: 463
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimateBG_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129.93333
+        width: 463
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimateBG_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 113.933334
+        width: 463
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimateBG_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97.933334
+        width: 463
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimateBG_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 81.933334
+        width: 463
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimateBG_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65.933334
+        width: 463
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimateBG_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49.933334
+        width: 463
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimateBG_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33.933334
+        width: 463
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimateBG_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17.933332
+        width: 463
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnimateBG_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.9333324
+        width: 463
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+Game Time State
+
+F1 T1 2 pts.
+F2 T1 3 pts.
+F3 T2 2 pts.
+F4 T2 3 pts.
+
+Backspace switch attacker
+
+F5 T1 Travelling
+F6 T2 Travelling
+F7 T1 Double Dribbing
+F8 T2 Double Dribbing
+F9 T1 Goaltending
+F10 T2 Goaltending
+
+F11 Timeout (Pause)
+
+F12x3 Restart
+
+Pause (Foul) State
+F1 T1 1pts;
+F2 T2 1pts;

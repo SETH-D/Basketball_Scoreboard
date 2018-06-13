@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 135eea6d3e9bbca4f9a904efb98330da
+timeCreated: 1528740387
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DELIRIUM NCV
+  fontNames:
+  - DELIRIUM NCV
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
